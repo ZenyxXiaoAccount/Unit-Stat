@@ -1,7 +1,7 @@
 {
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://89925249660312",
+        "Image": "rbxassetid://16620053009",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -40,7 +40,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://108231225322877",
+        "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
@@ -78,7 +78,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://97554562118129",
+        "Image": "rbxassetid://16620218689",
         "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0.65,
@@ -117,7 +117,7 @@
     },
     "Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://132275351050605",
+        "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
         "Max": 3,
@@ -156,7 +156,7 @@
     },
     "Withered Chica": {
         "Type": "Single",
-        "Image": "rbxassetid://75748936875023",
+        "Image": "rbxassetid://16632209265",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 2,
@@ -192,85 +192,9 @@
             }
         ]
     },
-     "Xiao": {
-        "Type": "E-Goth Little Girls",
-        "Image": "rbxassetid://75748936875023",
-        "Rarity": "Nightmare",
-        "PlacePrice": 200,
-        "Max": 69,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 50000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 1200,
-                "Range": 24,
-                "Damage": 75000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 1500,
-                "Range": 30,
-                "Damage": 100000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 2500,
-                "Range": 30,
-                "Damage": 125000,
-                "Cooldown": 0.1
-            }
-        ]
-    },
-        "Evil Captiane Bonnie": {
-        "Type": "E-Goth Bonnie Blue Girls",
-        "Image": "rbxassetid://75748936875023",
-        "Rarity": "Nightmare",
-        "PlacePrice": 200,
-        "Max": 69,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 5000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 1200,
-                "Range": 24,
-                "Damage": 7500,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 1500,
-                "Range": 30,
-                "Damage": 10000,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 2500,
-                "Range": 30,
-                "Damage": 12500,
-                "Cooldown": 0.1
-            }
-        ]
-    },
     "Withered Foxy": {
         "Type": "Dual",
-        "Image": "rbxassetid://132271627014074",
+        "Image": "rbxassetid://16632135968",
         "Rarity": "Epic",
         "PlacePrice": 1200,
         "Max": 3,
@@ -309,7 +233,7 @@
     },
     "Withered Freddy": {
         "Type": "Continuous",
-        "Image": "rbxassetid://129759774114658",
+        "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -347,7 +271,7 @@
     },
     "Withered Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://122840170050016",
+        "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 3,
@@ -386,7 +310,7 @@
     },
     "Shadow Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://98537764241507",
+        "Image": "rbxassetid://16781197179",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 2,
@@ -424,7 +348,7 @@
     },
     "Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://89853945292596",
+        "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
@@ -463,7 +387,7 @@
     },
     "Toy Bonnie": {
         "Type": "Dual",
-        "Image": "rbxassetid://78303154254743",
+        "Image": "rbxassetid://16780983603",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -501,7 +425,7 @@
     },
     "Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://108141752722529",
+        "Image": "rbxassetid://16781017510",
         "Rarity": "Epic",
         "PlacePrice": 1250,
         "Max": 2,
@@ -540,7 +464,7 @@
     },
     "Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://80098616982424",
+        "Image": "rbxassetid://16781119726",
         "Rarity": "Secret",
         "PlacePrice": 12500,
         "Max": 2,
@@ -577,48 +501,9 @@
             }
         ]
     },
-     "Logbook Chica": {
-        "Type": "Shock",
-        "Image": "rbxassetid://83742629584330",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.2,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 17,
-                "Damage": 150,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 17500,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 20000,
-                "Range": 22,
-                "Damage": 250,
-                "Cooldown": 1
-            },
-            {
-                "Price": 25000,
-                "Range": 25,
-                "Damage": 300,
-                "Cooldown": 0.75
-            }
-        ]
-    },
     "Shadow Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://82484270991649",
+        "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 2,
@@ -656,7 +541,7 @@
     },
     "Balloon Boy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://105960297781123",
+        "Image": "rbxassetid://16781077553",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -694,7 +579,7 @@
     },
     "Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://135226651120641",
+        "Image": "rbxassetid://17629034232",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -732,10 +617,10 @@
     },
     "Puppet": {
         "Type": "Pierce",
-        "Image": "rbxassetid://99375015468095",
+        "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
         "PlacePrice": 10000,
-        "Max": 4,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -745,33 +630,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 350,
-                "Cooldown": 5
+                "Range": 30,
+                "Damage": 300,
+                "Cooldown": 10
             },
             {
                 "Price": 15000,
-                "Range": 30,
-                "Damage": 400,
-                "Cooldown": 3
+                "Range": 35,
+                "Damage": 350,
+                "Cooldown": 9
             },
             {
                 "Price": 20000,
-                "Range": 35,
-                "Damage": 500,
-                "Cooldown": 2
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 8
             },
             {
                 "Price": 25000,
-                "Range": 40,
-                "Damage": 600,
-                "Cooldown": 1.75
+                "Range": 45,
+                "Damage": 400,
+                "Cooldown": 7
             }
         ]
     },
     "Withered Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://121140117517517",
+        "Image": "rbxassetid://16781122207",
         "Rarity": "Secret",
         "PlacePrice": 3000,
         "Max": 4,
@@ -809,7 +694,7 @@
     },
     "Endo": {
         "Type": "Support",
-        "Image": "rbxassetid://75743185572224",
+        "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
@@ -852,7 +737,7 @@
     },
     "Endo 02": {
         "Type": "Single",
-        "Image": "rbxassetid://125583233050968",
+        "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Max": 4,
@@ -1161,53 +1046,6 @@
                 "Price": 2000,
                 "Range": 18,
                 "Damage": 30,
-                "Cooldown": 0.8,
-                "Slow": 0.6,
-                "SlowTime": 1
-            }
-        ]
-    },
-    "Freddy Frostbear": {
-        "Type": "Slow + Splash",
-        "Image": "rbxassetid://117594851686564",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.5,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
-            },
-            {
-                "Price": 17000,
-                "Range": 22,
-                "Damage": 250,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
-            },
-            {
-                "Price": 23000,
-                "Range": 23,
-                "Damage": 300,
-                "Cooldown": 1,
-                "Slow": 0.7,
-                "SlowTime": 1
-            },
-            {
-                "Price": 25000,
-                "Range": 25,
-                "Damage": 300,
                 "Cooldown": 0.8,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -1585,7 +1423,7 @@
             }
         ]
     },
-     "Phantom Foxy": {
+    "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
@@ -1619,44 +1457,6 @@
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 200,
-                "Cooldown": 0.75
-            }
-        ]
-    },
-    "Gingerbread Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://116821958774223",
-        "Rarity": "Mythic",
-        "PlacePrice": 300,
-        "Max": 4,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 30,
-                "Cooldown": 1
-            },
-            {
-                "Price": 600,
-                "Range": 12,
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1000,
-                "Range": 15,
-                "Damage": 65,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
                 "Cooldown": 0.75
             }
         ]
